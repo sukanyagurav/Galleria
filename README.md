@@ -2,8 +2,8 @@
 
 ## Welcome! 👋
 
-- [GitHub Pages](https://github.com/sukanyagurav/Buy-Desserts)
-- [Netlify](https://buydesserts5867.netlify.app/)
+- [GitHub Pages](https://github.com/sukanyagurav/Galleria)
+- [Netlify](https://galleria5867.netlify.app/)
 
 ### Galleria Desktop View     
 
@@ -34,4 +34,5 @@ Users should be able to:
 <img src="./public/assets/shared/detailed.png" width="100%"/> 
 
 
-**Have fun building!** 🚀
+## Author
+Frontend Mentor - [@sukanyagurav](https://www.frontendmentor.io/profile/sukanyagurav) 
